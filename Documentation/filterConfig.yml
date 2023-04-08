@@ -1,0 +1,14 @@
+apiRules:
+- include:
+    uidRegex: ^DocFxForUnity
+    type: Namespace
+- include:
+    uidRegex: ^Global
+    type: Namespace
+- include:
+    uidRegex: CardScriptToExecute
+    type: Namespace
+    summary: Test summary
+- exclude:
+    uidRegex: .*
+    type: Namespace
