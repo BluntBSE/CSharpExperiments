@@ -62,7 +62,7 @@
             }
         ],
         "sitemap": {
-            "baseUrl": "https://bluntbse.github.io/UltraMayorDocs",
+            "baseUrl": "https://bluntbse.github.io/CSharpExperiments",
             "changefreq": "weekly",
             "fileOptions": {
                 "api/*": {
